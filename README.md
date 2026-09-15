@@ -4,6 +4,8 @@
 
 一款发生在 queer-friendly 酒吧中的开放式拉拉向多智能体关系叙事游戏。
 
+作品介绍页：https://babasoumah702-rgb.github.io/LaLa-Land-After-Hours/
+
 ## 当前版本
 
 Windows Alpha v0.1.0。本仓库用于发布 Windows 可运行版本与版本记录。
